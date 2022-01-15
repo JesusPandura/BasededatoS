@@ -151,16 +151,8 @@
         End Try
     End Sub
 
-   
-    Private Sub btndeuda_Click(sender As Object, e As EventArgs) Handles btndeuda.Click
-        Try
-            Dim Formulario As New FDeudaAutor
-            Formulario.txtbusqueda.Text = Me.txtCodLector.Text
-            Formulario.ShowDialog()
-        Catch ex As Exception
-            MsgBox(ex.Message)
-        End Try
-    End Sub
+
+
 
     Private Sub dtpFecEntrega_ValueChanged(sender As Object, e As EventArgs) Handles dtpFecEntrega.ValueChanged
 

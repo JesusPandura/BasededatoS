@@ -45,7 +45,6 @@ Partial Class FNPrestamo
         Me.Label13 = New System.Windows.Forms.Label()
         Me.btnRegistrar = New System.Windows.Forms.Button()
         Me.dgvLibro = New System.Windows.Forms.DataGridView()
-        Me.btndeuda = New System.Windows.Forms.Button()
         CType(Me.dgvLibro, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -270,11 +269,11 @@ Partial Class FNPrestamo
         Me.btnRegistrar.FlatAppearance.BorderColor = System.Drawing.Color.Black
         Me.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnRegistrar.ForeColor = System.Drawing.Color.White
-        Me.btnRegistrar.Location = New System.Drawing.Point(604, 193)
+        Me.btnRegistrar.Location = New System.Drawing.Point(614, 193)
         Me.btnRegistrar.Name = "btnRegistrar"
         Me.btnRegistrar.Size = New System.Drawing.Size(172, 57)
         Me.btnRegistrar.TabIndex = 26
-        Me.btnRegistrar.Text = "&Registrar Préstamo"
+        Me.btnRegistrar.Text = "Registrar Préstamo"
         Me.btnRegistrar.UseVisualStyleBackColor = False
         '
         'dgvLibro
@@ -295,27 +294,11 @@ Partial Class FNPrestamo
         Me.dgvLibro.Size = New System.Drawing.Size(502, 150)
         Me.dgvLibro.TabIndex = 28
         '
-        'btndeuda
-        '
-        Me.btndeuda.BackColor = System.Drawing.Color.DarkSlateGray
-        Me.btndeuda.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btndeuda.FlatAppearance.BorderColor = System.Drawing.Color.Black
-        Me.btndeuda.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btndeuda.ForeColor = System.Drawing.Color.White
-        Me.btndeuda.Location = New System.Drawing.Point(604, 273)
-        Me.btndeuda.Name = "btndeuda"
-        Me.btndeuda.Size = New System.Drawing.Size(172, 57)
-        Me.btndeuda.TabIndex = 29
-        Me.btndeuda.Text = "&Deuda Lector"
-        Me.btndeuda.UseVisualStyleBackColor = False
-        Me.btndeuda.Visible = False
-        '
         'FNPrestamo
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(831, 462)
-        Me.Controls.Add(Me.btndeuda)
         Me.Controls.Add(Me.dgvLibro)
         Me.Controls.Add(Me.btnRegistrar)
         Me.Controls.Add(Me.Label13)
