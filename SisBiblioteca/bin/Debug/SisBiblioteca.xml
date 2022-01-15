@@ -1,0 +1,821 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SisBiblioteca
+</name>
+</assembly>
+<members>
+<member name="T:SisBiblioteca.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.biblio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.car">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.carnet">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.Inicio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.lector">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.libros">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.libros1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.libros11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.logoo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.logooo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.pass">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.perfildeusuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.perfildeusuario1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.trans">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.transaccion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.vector_book_reading_logo_and_symbols_template_icons_app">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SisBiblioteca.My.Resources.Resources.vector_book_reading_logo_and_symbols_template_icons_app1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.autorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.bibliotecarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.editorialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.generoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.lectorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.librosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.prestamoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.stocklibrosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_DEVUELTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_LIBROSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_PRESTAMODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_STOCKDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.AccederBibliotecarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.BuscarEstadooDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.DetallesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarAutorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarBibliotecariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarEditorialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarGeneroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLectoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLibrosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLibrosStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDeudaLecorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDevueltosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.NroCarnetBibliotecarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.ReporteLibrosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.ReportePrestamosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarCantidadLibroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarLectorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarLibroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarBiblioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.pendientessDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.autorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.bibliotecarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.editorialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.generoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.lectorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.librosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.prestamoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.stocklibrosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_DEVUELTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_LIBROSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_PRESTAMORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_STOCKRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.AccederBibliotecarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.BuscarEstadooRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.DetallesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarAutorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarBibliotecariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarEditorialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarGeneroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLectoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLibrosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLibrosStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDeudaLecorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDevueltosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.NroCarnetBibliotecarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.ReporteLibrosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.ReportePrestamosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarCantidadLibroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarLectorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarLibroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarBiblioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.pendientessRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.autorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.bibliotecarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.editorialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.generoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.lectorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.librosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.prestamoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.stocklibrosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_DEVUELTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_LIBROSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_PRESTAMORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VISTA_MOSTRAR_STOCKRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.AccederBibliotecarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.BuscarEstadooRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.DetallesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarAutorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarBibliotecariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarEditorialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarGeneroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLectoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLibrosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarLibrosStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDeudaLecorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarPrestamoDevueltosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.NroCarnetBibliotecarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.ReporteLibrosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.ReportePrestamosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarCantidadLibroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarLectorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.VerificarLibroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.MostrarBiblioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSet.pendientessRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.autorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.bibliotecarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.editorialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.generoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.lectorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.librosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.prestamoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.stocklibrosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VISTA_MOSTRAR_DEVUELTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VISTA_MOSTRAR_LIBROSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VISTA_MOSTRAR_PRESTAMOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VISTA_MOSTRAR_STOCKTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.AccederBibliotecarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.BuscarEstadooTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.DetallesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarAutorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarBibliotecariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarEditorialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarGeneroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarLectoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarLibrosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarLibrosStockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarPrestamoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarPrestamoDeudaLecorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarPrestamoDevueltosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.NroCarnetBibliotecarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.ReporteLibrosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.ReportePrestamosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VerificarCantidadLibroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VerificarLectorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.VerificarLibroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.MostrarBiblioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.pendientessTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SisBiblioteca.proyecdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SisBiblioteca.proyecdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SisBiblioteca.proyecdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.UpdateAll(SisBiblioteca.proyecdbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SisBiblioteca.proyecdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
